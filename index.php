@@ -21,7 +21,7 @@
 			<div class="title" id="bottom-title">PIZZA</div>
 			<br>
 			<ul>
-				<li><a class="in-active" href="index.html">Home</a></li>
+				<li><a class="in-active" href="index.php">Home</a></li>
 				<li><a href="index.php">About Us</a></li>
 				<li><a href="index.php">Portfolio</a></li>
 				<li><a href="index.php">Clients</a></li>
