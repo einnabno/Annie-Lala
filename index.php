@@ -3,6 +3,7 @@
 		<title></title>
 		<link rel="stylesheet" type="text/css" href="css/style.css" />
 	</head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<body>
 		<div class="wrapper">
 			<div class="pizza"></div>
@@ -34,7 +35,6 @@
 			<br>
 			<br>
 			<br>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<div class="slideshow-container">
 
 			<div class="mySlides fade">
