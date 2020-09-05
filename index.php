@@ -15,6 +15,7 @@
 			<div class="salami6"></div>
 			<div class="salami7"></div>
 			<div class="salami8"></div>
+			<div class="salami9"></div>
 			<div class="pepperoni"></div>
 			<div class="title" id="top-title">YANNIE'S</div>
 			<div class="title" id="bottom-title">PIZZA</div>
