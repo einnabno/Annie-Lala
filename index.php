@@ -114,7 +114,7 @@ function showSlides() {
 			<br>
 			<br>
 			<br>
-			<div class="text"><center>ORDER AND CALL US NOW!</div></center>
+			<div class="text">ORDER AND CALL US NOW!</div>
 			<div class="feature"></div>
 			<br>
 			<br>
