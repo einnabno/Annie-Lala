@@ -1,5 +1,7 @@
 .wrapper {
-
+	width: 100%;
+    min-width: 500px;
+    margin: auto;
 }
 
 ul {
@@ -94,7 +96,6 @@ body {
   height: 240px;
   width: 240px;
 }
-
 .pepperoni {
   z-index: 10;
   position: absolute;
@@ -115,7 +116,7 @@ body {
 .salami {
 
   position: absolute;
-  margin: auto;
+  margin: left;
   top: -530;
   left: -1600px;
   bottom: 0;
@@ -131,7 +132,7 @@ body {
 .salami1 {
   z-index: 10;
   position: absolute;
-  margin: auto;
+  margin: left;
   top: -620;
   left: -1750px;
   bottom: 0;
@@ -147,7 +148,7 @@ body {
 .salami2 {
   z-index: 10;
   position: absolute;
-  margin: auto;
+  margin: left;
   top: -760;
   left: -1460px;
   bottom: 0;
@@ -163,7 +164,7 @@ body {
 .salami3 {
   z-index: 10;
   position: absolute;
-  margin: auto;
+  margin: left;
   top: -460;
   left: -1480px;
   bottom: 0;
@@ -179,7 +180,7 @@ body {
 .salami4 {
   z-index: 10;
   position: absolute;
-  margin: auto;
+  margin: left;
   top: -800;
   left: -1680px;
   bottom: 0;
@@ -195,7 +196,7 @@ body {
 .salami5 {
   z-index: 10;
   position: absolute;
-  margin: auto;
+  margin: left;
   top: -410;
   left: -1630px;
   bottom: 0;
@@ -211,7 +212,7 @@ body {
 .salami6 {
   z-index: 10;
   position: absolute;
-  margin: auto;
+  margin: left;
   top: -680;
   left: -1750px;
   bottom: 0;
@@ -317,8 +318,8 @@ height : 400px;
 width: 30%;
 }
 .text {
-	padding-bottom:15px;
-	font-family: Verdana;
+	padding-bottom:20px;
+	font-family: Arial;
 	color: #FFF;
 	font-size: 16px;
 	transform: rotate(2deg);
