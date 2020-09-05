@@ -99,7 +99,7 @@ body {
 
 .pepperoni {
   z-index: 10;
-  position: fixed;
+  position: static;
   margin: left;
   top: 250px;
   left: 150px;
