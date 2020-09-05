@@ -256,6 +256,23 @@ body {
   transform: rotate(45deg);
 }
 
+.salami9 {
+  z-index: 10;
+  position: absolute;
+  margin: auto;
+  top: -810;
+  left: -1540px;
+  bottom: 0;
+  right: 0;
+  height: 10px;
+  width: 10px;
+  border-left: 20px solid red;
+  border-right: 20px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-top: 10px solid transparent;
+  transform: rotate(45deg);
+}
+
 
 .sidebar {
 	background-image: url(../sample_img4.jpg);
