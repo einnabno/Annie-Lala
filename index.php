@@ -21,12 +21,12 @@
 			<div class="title" id="bottom-title">PIZZA</div>
 			<br>
 			<ul>
-				<li><a class="in-active" href="index.php">Home</a></li>
-				<li><a href="index.php">About Us</a></li>
-				<li><a href="index.php">Portfolio</a></li>
-				<li><a href="index.php">Clients</a></li>
-				<li><a href="index.php">Gallery</a></li>
-				<li><a href="index.php">Contact Us</a></li>
+				<li><a class="in-active" href="index.html">Home</a></li>
+				<li><a href="index.html">About Us</a></li>
+				<li><a href="index.html">Portfolio</a></li>
+				<li><a href="index.html">Clients</a></li>
+				<li><a href="index.html">Gallery</a></li>
+				<li><a href="index.html">Contact Us</a></li>
 			</ul>
 			<br>
 			<br>
@@ -108,10 +108,14 @@ function showSlides() {
 			<br>
 			<br>
 			<br>
-			<center><div class="row_4.5">INSERT TEXT INSERT TEXT INSERT TEXT INSERT TEXT</div></center>
 			<br>
 			<br>
 			<br>
+			<br>
+			<br>
+			<br>
+			<div class="text"><center>ORDER AND CALL US NOW!</div></center>
+			<div class="feature"></div>
 			<br>
 			<br>
 			<br>
